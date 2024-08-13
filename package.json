@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "apexcharts": "^3.49.1",
+    "vue-toastification": "^1.7.14",
+    "vue3-apexcharts": "^1.5.3"
+  }
+}
